@@ -18,7 +18,7 @@ With this little plugin you will be able to create testimonials slider in your w
 
 The MIT License
 
-Copyright 2013 JSC "Insightio"
+Copyright 2013 JSC "Insightio" ( http://www.insightio.lt / http://www.insightio.co.uk )
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
